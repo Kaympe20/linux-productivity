@@ -1,5 +1,5 @@
-# Popular Closed Source Apps And Suites, How To Run Them On Linux, And Their Open Source Alternatives
-A collection of software and both the way to run it on Linux and the open source alternatives along with commands to install applications and mixes of applications to form a similar suite to the closed source option
+# Popular Closed Source Productivity Apps And Suites, How To Run Them On Linux, And Their Open Source Alternatives
+The linux open source alternatives for productivity along with commands to install applications and mixes of applications to form a similar suite to the closed source option
 | Logo | App | Best Method For Running | Usable Webapp | Best Open Alternative |
 |:---:|:---:|:---:|:---:|:---:|
 | <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/1b6d695a-be0d-4aaf-920f-675585b5bb9c.png?auto=format&ixlib=react-9.0.3&w=1074" width="50"> | Visual Studio | [WinApps](https://github.com/Fmstrat/winapps) | ❌ | [KDevelop](https://kdevelop.org/) |
