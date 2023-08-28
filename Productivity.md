@@ -1,0 +1,26 @@
+# Popular Closed Source Apps And Suites, How To Run Them On Linux, And Their Open Source Alternatives
+A collection of software and both the way to run it on Linux and the open source alternatives along with commands to install applications and mixes of applications to form a similar suite to the closed source option
+| Logo | App | Best Method For Running | Usable Webapp | Best Open Alternative |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/1b6d695a-be0d-4aaf-920f-675585b5bb9c.png?auto=format&ixlib=react-9.0.3&w=1074" width="50"> | Visual Studio | [WinApps](https://github.com/Fmstrat/winapps) | ❌ | [KDevelop](https://kdevelop.org/) |
+| <img src="https://iconape.com/wp-content/png_logo_vector/microsoft-teams.png" width="50"> | Microsoft Teams | [Bottles](https://usebottles.com/) | ✅ | [Signal](https://flathub.org/apps/org.signal.Signal) |
+| <img src="https://clipground.com/images/clipart-no-office-2013-7.png" height="50"> | Microsoft Office | [Bottles](https://usebottles.com/) | ✅ | [LibreOffice](https://www.libreoffice.org/) for Word, Excel, Powerpoint, and Access; [Kontact](https://kontact.kde.org/), [Evolution](https://wiki.gnome.org/Apps/Evolution/), or [Thunderbird](https://www.thunderbird.net/en-US/) for Outlook; [Scribus](https://www.scribus.net/) for Publisher |
+| <img src="https://cdn.shopify.com/s/files/1/0246/0798/1613/products/autodesk-fusion-360-small-social-400_2000x.png?v=1650012030" width="50"> | Fusion 360 | [Bottles](https://usebottles.com/) | ✅ | [FreeCAD](https://www.freecad.org/index.php) |
+| <img src="https://cdn.jim-nielsen.com/macos/1024/logic-pro-2020-12-10.png" width="60"> | Logic Pro | N/A | ❌ | [Ardour](https://ardour.org/)
+| <img src="https://www.adobe.com/content/dam/cc/icons/photoshop.svg" width="50"> | Photoshop | [WinApps](https://github.com/Fmstrat/winapps) | ⚠ Use [Lightroom](https://lightroom.adobe.com/) | [GIMP](https://www.gimp.org/) with [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)|
+| <img src="https://www.adobe.com/content/dam/cc/icons/premiere.svg" width="50"> | Premiere Pro | [WinApps](https://github.com/Fmstrat/winapps) (GPU Acceleration Requires GPU Passthrough) | ❌ | [Kdenlive](https://kdenlive.org/en/) (Requires [Freeworld Drivers](https://gist.github.com/Champe20/7200319a37c5b238e100251e17625b64) On Fedora) |
+| <img src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg" width="50"> | Illustrator | [WinApps](https://github.com/Fmstrat/winapps) | ❌ | [Inkscape](https://inkscape.org/) |
+| <img src="https://www.adobe.com/content/dam/cc/icons/indesign.svg" width="50"> | InDesign | [WinApps](https://github.com/Fmstrat/winapps) | ❌ | [Scribus](https://www.scribus.net/) |
+| <img src="https://www.adobe.com/content/dam/cc/icons/pt_appicon_256.svg" width="50"> | Painter | [WinApps](https://github.com/Fmstrat/winapps) | ❌ | [Krita](https://krita.org/) |
+| <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/audition.svg" width="50"> | Audition | [WinApps](https://github.com/Fmstrat/winapps) | ❌ | [Audacity](https://www.audacityteam.org/) |
+| <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/animate.svg" width="50"> | Animate | [WinApps](https://github.com/Fmstrat/winapps) | ❌ | [Synfig Studio](https://synfig.gumroad.com/l/synfig) |
+| <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/lightroom.svg" width="50"> | Lightroom | [WinApps](https://github.com/Fmstrat/winapps) | ❌ | [RawTherapee](https://rawtherapee.com/) |
+| <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/after-effects.svg" width="50"> | After Effects | [WinApps](https://github.com/Fmstrat/winapps) | ❌ | [Natron](https://natrongithub.github.io/) |
+| <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/acrobat.svg" width="50"> | Acrobat |  [WinApps](https://github.com/Fmstrat/winapps) | ❌ | [Libreoffice Draw](https://www.libreoffice.org/discover/draw/) for editing/standard Acrobat; [Okular](https://okular.kde.org/) (KDE) or [Document Viewer](https://apps.gnome.org/app/org.gnome.Evince/) (GNOME) for viewing/Acrobat Reader |
+## Commands
+Copy and paste the commands you would like to use into your terminal
+### Flatpak (Requires Flathub To Be Setup)
+#### Adobe Photo Suite (Requires Unzip To Be Installed (Included In Most Distros))
+```flatpak install flathub com.rawtherapee.RawTherapee && flatpak install flathub org.gimp.GIMP && cd ~/Downloads && curl https://github.com/Diolinux/PhotoGIMP/releases/download/1.1/PhotoGIMP.zip && flatpak run org.gimp.GIMP && sleep 30 && flatpak kill org.gimp.GIMP && unzip PhotoGIMP.zip && cd PhotoGIMP/PhotoGIMP-master && \cp -r .var ~```
+#### Just Photoshop/PhotoGIMP (Requires Unzip To Be Installed (Included In Most Distros))
+```flatpak install flathub org.gimp.GIMP && cd ~/Downloads && curl https://github.com/Diolinux/PhotoGIMP/releases/download/1.1/PhotoGIMP.zip && flatpak run org.gimp.GIMP && sleep 30 && flatpak kill org.gimp.GIMP && unzip PhotoGIMP.zip && cd PhotoGIMP/PhotoGIMP-master && \cp -r .var ~```
