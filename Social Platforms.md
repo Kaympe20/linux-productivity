@@ -16,3 +16,9 @@ The fediverse is a collection of independently hosted interconnected servers and
 
 #### Cinny - Discord
 <img src="https://cinny.in/assets/preview-dark.png" width="600">
+
+#### Fluffy Chat - Messenger
+<img src="https://dl.flathub.org/repo/screenshots/im.fluffychat.Fluffychat-stable/752x423/im.fluffychat.Fluffychat-6161e5221558a81adaa9621da8d41cb5.png" width="600">
+
+## RocketChat - Slack
+<img src="https://dl.flathub.org/repo/screenshots/chat.rocket.RocketChat-stable/1248x702/chat.rocket.RocketChat-5bfda6791d66a752fb87d3e2c160a63f.png" width="600">
