@@ -3,3 +3,4 @@
 * [Productivity](/Productivity.md)
 * [Replacing Google](/Replacing%20Google.md)
 * [Social Platforms](/Social%20Platforms.md)
+* [Device Specific](/Device%20Specific.md) (Such As RGB)
