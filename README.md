@@ -3,3 +3,4 @@
 * [Productivity](/Productivity.md)
 ### Removing Big Tech
 * [Replacing Google](/Replacing%20Google.md)
+* [Social Platforms](/Social%20Platforms.md)
