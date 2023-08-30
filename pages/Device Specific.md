@@ -18,3 +18,8 @@ Razor devices actually have their own dedicated open source software, [Polychrom
 <p align="center"><img src="https://github.com/libratbag/piper/raw/wiki/screenshots/piper-buttonpage.png" width="600"></p>
 
 Most gaming mice are supported by [Piper](https://github.com/libratbag/piper), a gaming mouse configuration tool. To check if your mouse is compatible, go [here](https://github.com/libratbag/libratbag/tree/master/data/devices).
+
+## [VIA](https://www.caniusevia.com/)
+<p align="center"><img src="https://cdn.shopify.com/s/files/1/0059/0630/1017/t/5/assets/pf-ed1ba645--1627639225994.jpg?v=1627639246" width="600">
+
+[VIA](https://www.caniusevia.com/) is an incredible piece of software for configuring keyboads with QMK firmware. To check if your keyboard is compatible, just go [here](https://www.caniusevia.com/docs/supported_keyboards).
