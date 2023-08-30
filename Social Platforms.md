@@ -12,13 +12,13 @@ The fediverse is a collection of independently hosted interconnected servers and
 ## Matrix
 [Matrix](https://matrix.org/) is an open protocol for decentralised, secure communications. There are many [clients](https://matrix.org/ecosystem/clients/) which can mimic the look and feel of any chat app under the sun or be entirely unique. Additionally, you can even access other services in Matrix via [bridges](https://matrix.org/ecosystem/bridges/) that work with practically any service, including SMS and iMessage. Below are some pictures of the most popular clients and the app they mimic you may choose:
 #### Element - Discord
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Element_1.11.37_screenshot.png" width="600">
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Element_1.11.37_screenshot.png" width="600"></p>
 
 #### Cinny - Discord
-<img src="https://cinny.in/assets/preview-dark.png" width="600">
+<p align="center"><img src="https://cinny.in/assets/preview-dark.png" width="600"></p>
 
 #### Fluffy Chat - Messenger
-<img src="https://dl.flathub.org/repo/screenshots/im.fluffychat.Fluffychat-stable/752x423/im.fluffychat.Fluffychat-6161e5221558a81adaa9621da8d41cb5.png" width="600">
+<p align="center"><img src="https://dl.flathub.org/repo/screenshots/im.fluffychat.Fluffychat-stable/752x423/im.fluffychat.Fluffychat-6161e5221558a81adaa9621da8d41cb5.png" width="600"></p>
 
 ## RocketChat - Slack
-<img src="https://dl.flathub.org/repo/screenshots/chat.rocket.RocketChat-stable/1248x702/chat.rocket.RocketChat-5bfda6791d66a752fb87d3e2c160a63f.png" width="600">
+<p align="center"><img src="https://dl.flathub.org/repo/screenshots/chat.rocket.RocketChat-stable/1248x702/chat.rocket.RocketChat-5bfda6791d66a752fb87d3e2c160a63f.png" width="600"></p>
