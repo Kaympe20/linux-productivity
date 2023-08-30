@@ -1,6 +1,6 @@
 # A Collection Of Open Source Alternatives Of Popular Apps And Suites With A Focus On Linux Compatibility
 ## Categories
-* [Productivity](/Productivity.md)
-* [Replacing Google](/Replacing%20Google.md)
-* [Social Platforms](/Social%20Platforms.md)
-* [Device Specific](/Device%20Specific.md) (Such As RGB)
+* [Productivity](/pages/Productivity.md)
+* [Replacing Google](/pages/Replacing%20Google.md)
+* [Social Platforms](/pages/Social%20Platforms.md)
+* [Device Specific](/pages/Device%20Specific.md) (Such As RGB)
