@@ -17,10 +17,3 @@ The linux open source alternatives for productivity along with commands to insta
 | <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/lightroom.svg" width="50"> | Lightroom | [Cassowary](https://github.com/casualsnek/cassowary) | ❌ | [RawTherapee](https://rawtherapee.com/) |
 | <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/after-effects.svg" width="50"> | After Effects | [Cassowary](https://github.com/casualsnek/cassowary) | ❌ | [Natron](https://natrongithub.github.io/) |
 | <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/acrobat.svg" width="50"> | Acrobat |  [Cassowary](https://github.com/casualsnek/cassowary) | ❌ | [Libreoffice Draw](https://www.libreoffice.org/discover/draw/) for editing/standard Acrobat; [Okular](https://okular.kde.org/) (KDE) or [Document Viewer](https://apps.gnome.org/app/org.gnome.Evince/) (GNOME) for viewing/Acrobat Reader |
-## Commands
-Copy and paste the commands you would like to use into your terminal
-### Flatpak (Requires Flathub To Be Setup)
-#### Adobe Photo Suite (Requires Unzip To Be Installed (Included In Most Distros))
-```flatpak install flathub com.rawtherapee.RawTherapee && flatpak install flathub org.gimp.GIMP && cd ~/Downloads && curl https://github.com/Diolinux/PhotoGIMP/releases/download/1.1/PhotoGIMP.zip && flatpak run org.gimp.GIMP && sleep 30 && flatpak kill org.gimp.GIMP && unzip PhotoGIMP.zip && cd PhotoGIMP/PhotoGIMP-master && \cp -r .var ~```
-#### Just Photoshop/PhotoGIMP (Requires Unzip To Be Installed (Included In Most Distros))
-```flatpak install flathub org.gimp.GIMP && cd ~/Downloads && curl https://github.com/Diolinux/PhotoGIMP/releases/download/1.1/PhotoGIMP.zip && flatpak run org.gimp.GIMP && sleep 30 && flatpak kill org.gimp.GIMP && unzip PhotoGIMP.zip && cd PhotoGIMP/PhotoGIMP-master && \cp -r .var ~```
