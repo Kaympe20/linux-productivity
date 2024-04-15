@@ -5,4 +5,4 @@ A compilation of software, including instructions for running it on Linux, along
 * [Productivity](/pages/Productivity.md)
 * [Replacing Google](/pages/Replacing%20Google.md)
 * [Social Platforms](/pages/Social%20Platforms.md)
-* [Manufacterer Software](/pages/Device%20Specific.md) (Such as RGB)
+* [Manufacturer Software](/pages/Device%20Specific.md) (Such as RGB)
