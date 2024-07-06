@@ -2,7 +2,8 @@
 
 ## The Fediverse
 
-The fediverse comprises independently hosted interconnected servers, offering a range of services. It has viable alternatives to all major social media platforms, and all of them integrate well with each other.
+The fediverse comprises independently hosted connected servers, offering a range of services.
+It has viable alternatives to all major social media platforms, and all of them integrate well with each other.
 | Logo | Platform | Best Open Alternative |
 |:---:|:---:|:---:|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553" width="50">| Twitter/𝕏 | [Mastodon](https://joinmastodon.org/) |
@@ -14,7 +15,11 @@ The fediverse comprises independently hosted interconnected servers, offering a 
 
 ## Matrix
 
-[Matrix](https://matrix.org) is an open protocol for decentralised, secure communications. There are many [clients](https://matrix.org/ecosystem/clients) that can mimic the look and feel of any chat app under the sun or be totally unique. Additionally, you can even access other services in Matrix via [bridges](https://matrix.org/ecosystem/bridges) that work with practically any service, including SMS and iMessage. Below are some pictures of the most popular clients and the app they mimic you may choose:
+[Matrix](https://matrix.org) is an open protocol for decentralized, secure communications. There are
+many [clients](https://matrix.org/ecosystem/clients) that can mimic the look and feel of any chat app under the sun
+or be unique. Additionally, you can even access other services in Matrix via
+[bridges](https://matrix.org/ecosystem/bridges) that work with practically any service, including SMS and iMessage.
+Below are some pictures of the most popular clients and the app they mimic you may choose:
 
 ### Element - Discord
 
