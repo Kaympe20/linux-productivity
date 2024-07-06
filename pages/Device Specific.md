@@ -6,7 +6,7 @@
    <img src="https://uploads.golmedia.net/uploads/articles/article_media/6277205051595434787gol1.png" width="600">
 </p>
 
-[OpenRGB](https://openrgb.org) is an **RGB configuration program**. It supports [an incredible amount of devices](https://openrgb.org/devices.html), varying heavily in type, but the interface and options leave much to be desired compared to specially-designed software, including any configuration beyond RGB, such as DPI and button mapping.
+[OpenRGB](https://openrgb.org) is an **RGB configuration program**. It supports [an incredible number of devices](https://openrgb.org/devices.html), varying heavily in type, but the interface and options leave much to be desired compared to specially designed software, including any configuration beyond RGB, such as DPI and button mapping.
 
 ## [Solaar](https://pwr-solaar.github.io/Solaar)
 
